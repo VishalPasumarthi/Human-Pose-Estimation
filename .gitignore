@@ -1,0 +1,5 @@
+movenet_env/
+env/
+__pycache__/
+*.pt
+*.pyc
